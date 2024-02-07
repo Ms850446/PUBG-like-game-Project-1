@@ -23,6 +23,7 @@ public abstract class Interactables : MonoBehaviour
         }
         interact();
     }
+
     // Start is called before the first frame update
     protected virtual void interact()
     {
